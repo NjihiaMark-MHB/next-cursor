@@ -14,3 +14,5 @@ yarn dev
 # or
 pnpm dev
 ```
+
+You can find further documentation [here](https://njihiamark.medium.com/cursor-based-pagination-for-infinite-scrolling-using-next-13-tailwind-postgres-and-prisma-5ba921be5ecc).
